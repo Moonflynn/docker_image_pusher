@@ -1,1 +1,1 @@
-rednotehilab/dots.ocr:vllm-openai-v0.9.1
+paddlepaddle/paddle:3.0.0b1
